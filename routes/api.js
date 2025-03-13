@@ -24,7 +24,7 @@ const validateLogin = [
 router.post('/login', validateLogin, userController.login);  // Logs in a user
 
 // Protected routes (require authentication)
-router.post('/add-user', auth, userController.addUser);  // Adds a new user
+router.post('/add-user', userController.addUser);  // Add the admin only
 router.get('/users', auth, userController.getUsers);  // Lists all users
 router.post('/send-call', auth, callController.sendCall);  // Initiates a call
 router.post('/analyze-call/:callId', auth, callController.analyzeCall);  // Analyzes a call

@@ -1,0 +1,68 @@
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:25:53 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:27:14 +0000] \"POST /api/add-user HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:29:04 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:33:25 +0000] \"POST /api/ HTTP/1.1\" 404 144 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:33:37 +0000] \"POST /api/dd-user HTTP/1.1\" 404 151 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:34:27 +0000] \"POST /api/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:38:12 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:39:17 +0000] \"POST /api/login HTTP/1.1\" 200 274 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:42:48 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:43:40 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:45:54 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:50:20 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:50:47 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:18:57:45 +0000] \"POST /api/login HTTP/1.1\" 200 274 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:06:20 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:06:37 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:11:57 +0000] \"POST /api/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:12:03 +0000] \"POST /api/login HTTP/1.1\" 200 272 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:14:34 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"JWT Verification Error: jwt expired"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:41:22 +0000] \"POST /api/admin/add-user HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:42:13 +0000] \"POST /api/login HTTP/1.1\" 200 274 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:42:43 +0000] \"POST /api/admin/add-user HTTP/1.1\" 500 51 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:45:58 +0000] \"POST /api/admin/add-user HTTP/1.1\" 500 51 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:46:15 +0000] \"POST /api/login HTTP/1.1\" 200 223 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:46:17 +0000] \"POST /api/login HTTP/1.1\" 200 223 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:47:02 +0000] \"POST /api/admin/add-user HTTP/1.1\" 500 51 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:47:27 +0000] \"POST /api/login HTTP/1.1\" 200 274 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:47:43 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:48:10 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:49:01 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:49:12 +0000] \"POST /api/login HTTP/1.1\" 401 49 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Add User Error: password is not defined"}
+{"level":"error"}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:49:45 +0000] \"POST /api/admin/add-user HTTP/1.1\" 500 51 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:51:03 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:19:51:13 +0000] \"POST /api/login HTTP/1.1\" 200 272 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:03:36 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:04:23 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:04:38 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:08:07 +0000] \"POST /api/admin/add-user HTTP/1.1\" 403 79 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:08:26 +0000] \"POST /api/login HTTP/1.1\" 200 274 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:08:58 +0000] \"POST /api/admin/add-user HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:09:24 +0000] \"POST /api/login HTTP/1.1\" 200 272 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:10:27 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:10:39 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:32:17 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"info","message":"::1 - - [13/Mar/2025:20:32:29 +0000] \"POST /api/send-call HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.0\""}

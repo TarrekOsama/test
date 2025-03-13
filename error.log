@@ -1,0 +1,23 @@
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"JWT Verification Error: jwt expired"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Login error: Invalid credentials"}
+{"level":"error","message":"Add User Error: password is not defined"}
+{"level":"error"}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"error","message":"Send Call Error: Insufficient balance or user not found"}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}
+{"level":"error","message":"Send Call Error: Request failed with status code 404"}

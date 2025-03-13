@@ -5,13 +5,12 @@ const logger = require('../utils/logger');
 
 // Adds a new user (admin-only)
 exports.addUser = async (req, res, next) => {
-  const { name, email, balance, phone, from } = req.body;
+  const { name, email, password, balance, phone, from } = req.body;
   try {
     const existingUser = await User.findOne({ email });
     if (existingUser) {
       throw new APIError('User already exists', 400);
     }
-    const password = 'defaultpassword';  // Default password for admin-added users
     const newUser = new User({ name, email, password, balance: balance || 10, role: 'user', phone, from: from || '+1234567890' });
     await newUser.save();
     res.json({ success: true, userId: newUser._id });
